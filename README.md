@@ -1,9 +1,11 @@
 # Mask-Detector-and-Dispensor - UBHACKING2021
 
-Inspiration
+Inspiration:
+
 The recent covid-19 pandemic had made us realize that Frontline workers employed in retail stores are at a high risk of getting contaminated by infections. Our goal is to aid frontline workers motivated our team to use our skills to make the workplace safer for Frontline workers. Making retail stores, like Wegmans, safer would ensure the safety of frontline workers, their families, and even the customers that visit the stores.
 
-What it does
+What it does: 
+
 The goal of our project is to create a tool that ensures the safety and hygiene of frontline workers in retail stores. Our project aims to use Computer Vision technology to classify whether the employee/customer is attempting to enter the store premises without a mask. If the algorithm recognizes that an individual is not wearing a mask, then a mask is automatically dispensed by the machine and the algorithm again checks if the mask is worn by the person. Especially, for employees, the program uses a rewarding system that awards them for following adequate guidelines to stop the spread of the pandemic.
 
 How we built it: 
