@@ -1,5 +1,7 @@
 # Mask-Detector-and-Dispensor - UBHACKING2021
 
+DEVPOST: https://devpost.com/software/frontline-ai
+
 Inspiration:
 
 The recent covid-19 pandemic had made us realize that Frontline workers employed in retail stores are at a high risk of getting contaminated by infections. Our goal is to aid frontline workers motivated our team to use our skills to make the workplace safer for Frontline workers. Making retail stores, like Wegmans, safer would ensure the safety of frontline workers, their families, and even the customers that visit the stores.
